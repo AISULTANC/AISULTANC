@@ -1,5 +1,5 @@
 <div align="center">
-    <img width=250 src="https://i.imgur.com/C4mzl3d.gif"/>    
+    <img width=250 src="https://64.media.tumblr.com/48145ac0a8222e2134609357217bfe76/e0dcfe6d210a622f-ce/s250x400/47384d1dbcec41fdf22cc473d74f14fb272d5c0c.gifv"/>    
     <br/><br/>
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2000&pause=2000&color=00F7FF&center=true&width=600&lines=Hey%2C+I'm+Aisultan!;Cybersecurity+%7C+AI+Builder;Content+Creator+%7C+Developer" />
 </div>
