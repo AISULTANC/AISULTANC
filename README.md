@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Aisultan Beisenov</h1>
+  <h1>Bibop</h1>
   <p>Cybersecurity Student • Pentester • Content Creator</p>
 </div>
 
