@@ -1,42 +1,21 @@
 <div align="center">
-    <img width=250 src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>    
-    <br/><br/>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2000&pause=2000&color=00F7FF&center=true&width=600&lines=Hey%2C+I'm+Aisultan!;Cybersecurity+%7C+AI+Builder;Content+Creator+%7C+Developer" />
+    <img width=300 src="./assets/lain.gif"/>
 </div>
 
 ---
 
 <div align="center">
-    <a href="https://github.com/AISULTANC"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-    <a href="https://www.tiktok.com/@bibop301?is_from_webapp=1&sender_device=pc"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok"/></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00FF9C&center=true&width=700&lines=Access+Granted...;Aisultan+Detected;Cybersecurity+%7C+AI+%7C+Builder;Welcome+to+my+system" />
 </div>
 
 ---
 
-## 🧠 About Me
+```bash
+> whoami
+Aisultan — Cybersecurity Student @ AITU
 
-I am a **Cybersecurity student at Astana IT University** focused on hacking, AI systems, and real-world security.
+> status
+Building AI systems & hacking skills
 
-I build projects, explore vulnerabilities, and share knowledge through content.
-
-🚀 Currently:
-- 🔐 Learning: Penetration Testing & Web Security  
-- 🤖 Building: **AI Workspace for Students**  
-- 📱 Growing: Cybersecurity TikTok (6.5K+ followers, 200K+ likes)  
-
-💡 Goal: Become a top cybersecurity specialist and build impactful AI products.
-
----
-
-## ⚙️ Tech Stack
-
-```javascript
-const Aisultan = {
-    languages: ["Python", "C++", "JavaScript"],
-    cybersecurity: ["Nmap", "Burp Suite", "Metasploit"],
-    backend: ["Django", "FastAPI"],
-    frontend: ["HTML", "CSS", "Next.js"],
-    databases: ["PostgreSQL", "SQLite"],
-    tools: ["Git", "Docker", "Linux"],
-    currentFocus: ["AI + Cybersecurity", "Startup building"]
-};
+> followers
+6500+ (TikTok Cybersecurity)
