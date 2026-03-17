@@ -1,5 +1,5 @@
 <div align="center">
-    <img width=250 src="https://i.pinimg.com/originals/4a/f7/96/4af796ba201b5443d8ea5e45614de3f2.gif"/>    
+    <img width=250 src="https://i.imgur.com/C4mzl3d.gif"/>    
     <br/><br/>
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2000&pause=2000&color=00F7FF&center=true&width=600&lines=Hey%2C+I'm+Aisultan!;Cybersecurity+%7C+AI+Builder;Content+Creator+%7C+Developer" />
 </div>
