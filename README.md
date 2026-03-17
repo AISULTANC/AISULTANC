@@ -8,7 +8,7 @@
 
 <div align="center">
     <a href="https://github.com/AISULTANC"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-    <a href="https://tiktok.com/@yourchannel"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok"/></a>
+    <a href="https://www.tiktok.com/@bibop301?is_from_webapp=1&sender_device=pc"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok"/></a>
 </div>
 
 ---
