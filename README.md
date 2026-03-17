@@ -27,6 +27,6 @@ Linux • Git
 
 <h3>Links</h3>
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
-<a href="https://tiktok.com/@YOUR_TIKTOK">TikTok</a>
+<a href="https://www.linkedin.com/in/aisultan-beisenov-3a3625389/?locale=ru">LinkedIn</a> |
+<a href="https://www.tiktok.com/@bibop301?is_from_webapp=1&sender_device=pc">TikTok</a>
 </p>
